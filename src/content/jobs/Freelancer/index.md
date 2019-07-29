@@ -1,6 +1,6 @@
 ---
 date: '2018-12-31'
-title: 'Engineer'
+title: 'Software Developer'
 company: 'Freelance'
 location: 'Copenhagen, DK'
 range: 'December 2018 - Present'
