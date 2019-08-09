@@ -1,6 +1,6 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
+title: 'Business Analyst/ Junior Project manager'
 company: 'Believers Love-world Ministry'
 location: 'London, UK'
 range: 'OCt 2014 - June 2017'
